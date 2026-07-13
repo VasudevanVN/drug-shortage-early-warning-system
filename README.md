@@ -24,10 +24,3 @@ Hospital supply chains are traditionally reactive, discovering drug shortages on
 * **BI Layer:** Power BI Desktop importing local database relations for diagnostic dashboarding.
 
 ---
-
-## 🚀 Setup & Execution Instructions
-
-### 1. Clone the Workspace
-```bash
-git clone [https://github.com/YOUR_USERNAME/drug-shortage-early-warning-system.git](https://github.com/YOUR_USERNAME/drug-shortage-early-warning-system.git)
-cd "Drug Shortage Early-Warning"
